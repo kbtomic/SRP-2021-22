@@ -154,6 +154,6 @@ def brute_force():
 # Think, how do you know that the key tested is the correct key
 # (i.e., how do you break out of this infinite loop)?
 		ctr += 1
-if __**name__** == "__**main__**":
+if __name__ == "__main__":
 	brute_force()
 ```
